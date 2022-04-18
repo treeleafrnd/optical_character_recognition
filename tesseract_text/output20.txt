@@ -1,7 +1,0 @@
-PROJECT INITIATION DOCUMENT
-(PID)
-
-Southern Gateway Implementation
-
- 
-
