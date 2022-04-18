@@ -1,0 +1,14 @@
+NS.D.C
+globsyn skills
+good job
+GFS Project Documentation Format
+Every group must submit project documentation (one per group) on the presentation day failing which they will not be entitled for assessment Project document must conform to the format given below) Every documentation must contain project certificates for each member in the group. Former for project certificate is given at the end of this document,
+1>Title Page
+Online/Automated Students Registration System using Java6
+Group Members
+names College name>College
+Registration nos Registration no
+2>Index Page
+Item
+Page No
+

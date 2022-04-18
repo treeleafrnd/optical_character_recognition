@@ -1,0 +1,25 @@
+Format of a table
+Table No.
+
+Title.
+
+(Head note)
+
+ 
+
+Stub
+
+Caption
+
+ 
+
+Row Entries
+
+Foot note
+
+Source.
+
+Body
+
+ 
+

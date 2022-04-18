@@ -1,0 +1,37 @@
+52 | AF-5380P3PR User Manual
+3. Main system
+CPU
+EMMA3SL/LP (MIPS32 4KEc CPU, 440MIPS@ 288MHz)
+Flash Memory
+16 Mbytes
+Graphic & System DDR SDRAM
+128Mbytes (1 DDRII SDRAM)
+4. AN Data In/Out
+RCA VIDEO
+Video Output (CVBS) 
+AUDIO R/L 
+RCA/Cinch Volume & Mute Control
+ USB 2.0 Host Interface
+A-Type Vertical Connector
+5. Power Supply
+Input Voltage
+90 to 300 Vac, 50Hz/60Hz
+Type
+SMPS 
+Power Consumption
+Max 30Watts
+Protection
+Internal Fuse 
+Safety And EMC
+For Country Regulation
+6. Environment
+Operating Temperature
++5°C ~ +50°C
+Storage Temperature
+ 40°C ~ +70°C
+8. Physical Specification
+Size(WXDXH)
+230 x 190 x 40 mm
+Weight(Net)
+2.0Kg approximate
+

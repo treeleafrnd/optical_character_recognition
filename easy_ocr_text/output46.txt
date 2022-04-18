@@ -1,0 +1,29 @@
+PivotTablel
+PivotTable Fields
+ACTE
+FlL
+To build a report, choose
+fields from the PivotTable
+Cncoze fields to add to report
+Field List
+Customer_Info
+11
+fields Between areas belowe
+12
+alteRS
+COLUMNS
+13
+14
+15
+16
+ROWS
+2 VALUES
+17
+18
+19
+20
+Defer Layout Update
+Upd_Te
+21
+22
+Dreg 5

@@ -1,0 +1,12 @@
+Select New Document Type
+To change the document type for the selected content, first select from the list of valid types for this location.
+Content:
+Child 1
+Current type:
+Test
+New Type:
+Grid
+Only alternate types valid for the current location are displayed
+New Template:
+<none>
+

@@ -1,0 +1,42 @@
+Filters
+Facets
+Will change between searches,depending
+Will never change between searches.
+on the returned results
+Can be selected before and after a search
+.Can only be selected after a searchquery
+query has been executed
+hasbeenexecuted
+Most often used in information-rich websites.Most often used in ecommerce.
+Low-levelclassificationbasedonbroad
+Oftenhigh-levelspecificclassification based
+categories
+onsearchresultattributes
+erties of 'Select Radio Button on Web Pageaction
+Select Radio Button on Web Page
+Selectsa Radio Button on the Web Page
+Saneal
+Advanced Excepton Handing
+Action Inpul
+Web Browser Instance:
+%ntemetExplorer
+Controb
+ho contral seected
+Select Contral From Repository
+Action Output
+This action is Enalblec
+More kfo
+Filters
+Facets
+Will change between searches,depending
+Will never change between searches.
+on the returned results
+Can be selected before and after a search
+.Can only be selected after a searchquery
+query has been executed
+hasbeenexecuted
+Most often used in information-rich websites.Most often used in ecommerce.
+Low-levelclassificationbasedonbroad
+Oftenhigh-levelspecificclassification based
+categories
+onsearchresultattributes

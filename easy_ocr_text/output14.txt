@@ -1,0 +1,17 @@
+Select New Document Type
+To
+the document type for the selected content; first select
+from the list of valid types for this location;
+Content:
+Child 1
+Current type:
+Test
+New Type:
+Grid
+Only alternale Lypes valid lor the current location
+are
+dispbied
+New Template:
+chone?
+change
+

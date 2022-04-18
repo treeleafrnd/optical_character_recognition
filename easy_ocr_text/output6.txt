@@ -1,0 +1,43 @@
+52
+IAF-538P3PR User Manual
+3 Main system
+CPU
+EMMABSLLP
+(MIPS32
+4KEc
+CPU,
+44OMIPS@
+288MHz)
+Flash Memory
+16 Mbytes
+Graphic & System DDR SDRAM
+128Mbytes
+DDRII SDRAM)
+4 AN Data InlOut
+RCA VIDEO
+Video Output (CVBS)
+AUDIO RIL
+RCACinch Volume & Mute Control
+USB 2.0 Host Interface
+A-Type Vertical Connector
+5.Power Supply
+Input Voltage
+90 to 300 Vac; S0HzI6OHz
+Type
+SMPS
+Power Consumption
+Max 3Watts
+Protection
+Intemal Fuse
+Safety And EMC
+For Country Regulation
+6 Environment
+Operating Temperature
++59C ~ +508C
+Storage Temperature
+40*C ~+70C
+8  Physical Specification
+Size(WXDXH)
+230x 190 x 40 mm
+Weight(Net)
+2 0Kg approximate

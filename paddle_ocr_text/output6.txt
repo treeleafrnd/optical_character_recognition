@@ -1,0 +1,33 @@
+52 |AF-5380P3PR User
+3.Mainy
+CPU
+288MHz
+Flash Memory
+16Mbytes
+Graphic & System DDR SDRAM
+128Mbytes (1 DDRII SDRAM
+4. AV Data In/Out
+RCAVIDEC
+Video Output (CVBS)
+AUDIOR/L
+RCACinch Volume&Mute Contr
+USB 2.0 Host Inte
+A-TypeVertical Connectc
+5.Power Supply
+InputVoltage
+ype
+Mlax 30Wat
+Protectior
+ntemal Fus
+Safety And EMC
+untryRe
+6.Environment
++5~+500
+Operating Temperatur
+Storage Temperature
+40C~+70
+8.PyialSpecification
+230x190x40mm
+Size(W X D X H)
+Weight(Net
+2.0Kg approxin

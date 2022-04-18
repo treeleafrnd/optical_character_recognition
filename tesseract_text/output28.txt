@@ -1,0 +1,49 @@
+Router transformation provides the option of
+Jcapturing those rows of data that do not meet any
+of the conditions to a default output group.
+
+Router transformation is a single input and multi
+output group transformation.
+
+| in a router transformation, you can specify more
+than one filter condition.
+
+ 
+
+ 
+
+| Router transformation does not block input rows
+and those records that failed the filter condition
+will be passed tothe default group
+Router transformation acts like IIF condition in
+informatica or CASE... WHEN statement in
+database.
+
+ 
+
+ 
+
+A Filter transformation tests data for one
+condition and drops the rows of data that do not
+meet the condition.
+
+ 
+
+ 
+
+Filter is a single input and single output group
+transformation.
+
+ 
+
+Ina filter transformation, you can specify only
+Iter condi
+
+   
+
+Ina filter transformation, there is a chance that
+records get blocked
+
+Filter transformation works as WHERE clause of
+sa.
+

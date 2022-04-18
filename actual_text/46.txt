@@ -1,0 +1,17 @@
+PivotTablet
+PivotTable Fields ACTIVE ALL
+To build a report, choose fields from the Pivottable
+Field List
+Choose fields to add to report
+Customer Info
+Drag fields between areas below.
+7 FILTERS
+1 COLUMNS
+1111111
+11
+1111111
+ROWS
+Σ VALUES
+UPDATE
+Defer Layout Update
+

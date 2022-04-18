@@ -1,0 +1,18 @@
+Table 1. Sex, Citizenship by Birthplace
+Birthplace
+Total Popstan Provinces Countries
+Sex SUBTABLE Total 16,528
+16,204 324
+Male 7.946 7,796 150
+Female 8,582 8,408 174
+Citizenship
+SUBTABLE
+Total Popstan Kiribati Vanuatu Tuvalu Other
+16,528 16,204, 324
+16,259 16,079, 180
+118 117 1
+7 5 2
+94 3 91
+50 50
+
+

@@ -1,0 +1,20 @@
+Project Title : Library Management System
+Prepared By:
+Project Justification:
+
+This projects basically updating the manual library system into a internet based application so that the users can know the details of their account, availability of books etc.
+Product charateristics and Requirements:
+1. Secured database
+2 User tracking
+3 Search feature
+4 Calculating fines
+5. Checking the availability of books
+te odines
+6. Students will get emails before the due date in order to avoid fines.
+Project Management Deliverables:
+Project plan Research finding report work breakdown Structure, scope statement Project charter, Training manuald lessons learned report etc.
+Product related deliverables:
+Research reports design documents software code hardware plan project benenfit measurement plan etc.
+
+Project success Criteria our main goal to complete this project within a alloted deadline and aslo within the budget alloted. It is necessary to develop a method for capturing the benefits while the Library management system is being developed tested and after a rolled out. If the project takes a  little longer to complete or costs more than planned the form will still view it as a success has a good payback and help promote the form's image as an excellent management organization
+

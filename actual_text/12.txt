@@ -1,0 +1,15 @@
+Properties of 'Select Radio Button on Web Page action
+Select Radio Button on Web Page Selects a Radio Button on the Web Page
+General Advanced Exception Handling
+Action Input
+Web Browser instance:
+%InternetExplorer%
+Control (no control selected)
+Select Control From Repository
+Action Output
+(This action does not provide any output)
+This action is Enabled
+More info
+OK
+Cancel
+

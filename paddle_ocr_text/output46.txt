@@ -1,0 +1,34 @@
+G
+E
+H
+PivotTableFields
+X
+PivotTable1
+ACTIVE ALL
+6
+To builda report,choose
+7
+fields from the PivotTable
+Choose fields to add to report
+8
+Field List
+4Customer Infc
+ED
+100
+1
+Drag fields between areas below
+57
+Y FLTERS
+II COLUMNS
+13
+11
+B5
+15917
+ROWS
+VALUES
+152
+20
+Defer Layout Update
+UPDATE
+21
+22

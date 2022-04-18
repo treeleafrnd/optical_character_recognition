@@ -1,0 +1,10 @@
+Filters
+Facets
+• Will never change between searches.
+• Will change between searches, depending on the returned results.
+• Can be selected before and after a search query has been executed.
+• Can only be selected after a search query has been executed.
+• Most often used in information-rich websites. Most often used in ecommerce.
+• Low-level classification based on broad categories.
+• Often high-level, specific classification based on search result attributes.
+

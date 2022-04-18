@@ -1,0 +1,12 @@
+Format
+ol a table
+Table No
+Tule:
+(Head note)
+Stub
+Caption
+Entries
+Body
+Foot nole
+Source:
+Row

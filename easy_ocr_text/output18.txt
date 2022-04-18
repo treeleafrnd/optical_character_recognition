@@ -1,0 +1,13 @@
+Managed Table
+Exteral Table
+Default tables of Hive
+External to the Hive warehouse system
+No; need t0
+extra keyword for
+We must have to use External keyword for
+creation of table
+table creation
+Drop the table entire will be lose
+Drop the table Meta data from Meta store
+will be lose
+using

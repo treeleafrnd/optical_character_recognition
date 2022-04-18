@@ -1,0 +1,13 @@
+PROJECT INITIATION DOCUMENT
+(PID)
+Southern Gateway Implementation
+Release: 
+6th Draft
+Date:
+29 August 2017
+Author:
+Paul Over Jane Hotchkiss Amy Loaring 
+Approved by: Cabinet
+Note: the completion of this document is required for medium and large projects as defined by the Project Type Matrix. The final version should be saved in a sub folder on the x drive under project management project documentation
+Project Initiation Document Template Version 1.6 last updated 22 October 2014
+

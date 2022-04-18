@@ -1,0 +1,72 @@
+BILL CUMRECEIPT
+Narayana
+Narayana Multispeciality Clinic,Hosur-OPD-G
+Multispeciality Clinic
+Unit of Narayana Health
+Mr Guranagoudmale79y8m
+Bill No
+Patient Nam
+INVO-2002-2004000075
+20020000021110
+Date
+Paticnt MRN
+11-04-202010:40AM
+Tarlff Class
+Patient Phone No
+8220009866
+OPD
+2NDCROSS TVS NAGAR,HOSUR,HosurK
+Consuitant
+Address
+opd
+.n.65
+Visit No
+P002
+Particulars
+Date
+Unit Rate
+Amounti Ru
+Laboratory Services
+HAEMOGLOBINHB%|opd
+11-04-2020
+75.00
+75.00
+110.00
+2.POTASSIUM,SERUMOpd
+11-04-2020
+1
+11000
+11-04-2020
+12000
+3.SERUM CREATININEIopd
+120:00
+11-04-2020
+750.00
+1
+A.FREE THYROID PROFILEFT3.FTA.TSHOp
+750:00
+Tota
+1.055.00
+Total Hospltal Charges for Rendered Services/ltems
+1055.00
+Total Bill Amount Including Taxes before round off
+1,055.00
+Sponsor Payable
+0.00
+Patient Round Off
+0.00
+Patlent Payable
+1055.00
+Amount ln words: Rupees One Thousand Fifty Five Only
+Reference No
+Instrument No.
+Recelpt No.
+Receipt Date
+Instrument Date
+Amount
+CARD
+11-04-202010:40AM
+RCPO-2002-2004000075
+1,055.00
+Total
+1,055.00

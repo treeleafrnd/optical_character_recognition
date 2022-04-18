@@ -1,0 +1,20 @@
+CHOOSE CONTACTLISTSANDFIELDS
+Contact Lists/Custom Fields
+1
+City
+Company
+Country
+First-Name
+industry
+Last-Name
+Lead Source
+Phone
+Posta
+State
+Change Field Order(Drag&Drop
+Email Address(Required)
+Contact Format
+First-Name
+Company
+ext>>
+Cancel

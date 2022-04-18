@@ -1,0 +1,17 @@
+Default tables of Hive
+
+No, need to using extra keyword fo
+creation of table
+
+Drop the table entire will be lose
+
+External to the Hive warehouse system
+
+We must have to use External keyword for
+table creation
+
+Drop the table Meta data from Meta store
+will be lose
+
+ 
+

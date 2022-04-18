@@ -1,0 +1,38 @@
+Cost Center
+Month
+Work ordertype CodeWIPCount
+JB
+August2015
+Exteral
+B
+August 2015
+Intemal
+B
+August2015
+Warranty
+JB
+September2015
+External
+JB
+September2015
+Internal
+September2015
+Warranty
+B
+October 2015
+External
+JB
+October2015
+Internal
+JB
+October2015
+Warranty
+39
+November 2015
+External
+B
+November 2015
+Intemal
+IR
+Novemher015
+Warranh
