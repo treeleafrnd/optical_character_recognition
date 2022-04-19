@@ -1,0 +1,25 @@
+Symbolic Math Toolbox
+Don't do nasty calculations by hand
+Symbolics vs.Numerics
+Advantages
+Disadvantages
+ Analytical solutions
+Symbolic
+Sometimes can't be
+D
+solved
+Lets you intuit things
+Can be overly compli-
+about solution form
+cated
+Always get a solution
+Numeric
+Hard to extract a deep
+understanding
+Can make solutions
+Num.methods some-
+accurate
+times fail
+o Easy to code
+Can take a while to
+compute

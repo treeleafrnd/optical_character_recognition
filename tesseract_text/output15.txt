@@ -1,0 +1,48 @@
+CHOOSE CONTACT LISTS AND FIELDS
+
+@ Choose the database(s) you want to add/remove contact from and which custom fields to include on your form. Learn more here.
+
+is
+
+of
+
+ts
+
+Field
+
+City
+
+|
+
+4
+
+Company
+
+f
+
+Country
+
+;
+
+First-Name
+
+Industry
+
+Last-Name
+
+Lead Source
+
+Phone
+
+Postal
+
+State
+
+ch
+
+eld 0
+
+© (Or
+
+opr:
+

@@ -1,0 +1,29 @@
+azumdar Shaw
+Tedical Center
+8August 2018
+Patient NameSuresh.S
+MRN:10020000569492
+BREAK UPFOR BONE MARROW TRANSPLANT
+Conditioning Chemotherapy
+Rs.1.00.000
+Antibiotics /Anti Fungals/Antivirals
+Rs.150.000
+Immunosupressive Agents
+R.2.50.000
+Investigations
+R.2.50.000
+Blood Products
+R.2.50.000
+Transplant Charges
+Rs.1.50.000
+Disposables
+Rs.1.00.000
+Hospitalization charges
+Rs.200.000
+Donor stem cell collection
+Rs.50.000
+Post Transplant follow upfor 6-8 weeks
+Rs.500.000
+Total
+R,20,00,000/
+(Rupees Twenty lakhs only

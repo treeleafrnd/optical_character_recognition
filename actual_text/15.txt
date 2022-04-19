@@ -1,0 +1,10 @@
+CHOOSE CONTACT LISTS AND FIELDS
+Choose the database(s) you want to add/remove contact from and which custom fields to include on your form. Learn more here.
+Contact Lists/Custom Fields:
+City Company Country First-Name Industry Last-Name Lead Source Phone Postal State
+Change Field Order (Drag & Drop): Email Address (Required)
+Contact Format First-Name Company
+Drag and drop to rearrange the order in which the fields will appear on the form
+Next >>
+Cancel
+

@@ -1,0 +1,32 @@
+﻿
+GUILD
+EVOKER
+A WIZARD WHO CREATES BITTER COLD, SEARING FLAME, ROLLING THUNDER, CRACKLING LIGHTNING, AND BURNING ACID
+PROFICIENCIES
+FEATURE
+HIT DIE:
+1D6
+As a wizard you aren't trained in the use of armor or shields. If you wear armor or wield a shield you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can't cast spells
+Armor
+At first level you have 6 hit points, plus your Constitution modifier
+Arcane Recovery (PHB 115): Most spellcasters need 8 hours of rest to recover any of their spent spells. You only need an hour of rest to recover some of yours. Just make sure you have your spellbook at hand
+Add your proficiency bonus to the attack roll for any attack you make with daggers, darts, slings, quarterstaffs, and light crossbows. When wielding other weapons, you don't add your proficiency bonus to the attack roll
+Weapons
+Saving Throws
+Add your proficiency bonus when making an Intelligence or Wisdom saving throw.
+1ST LEVEL 
+Ability Your spellcasting is tied to your Intelligence, so it Scores should be your highest ability score. Your next
+highest score should be Dexterity, to avoid getting hit, followed by Constitution, to maintain concentration when you are hit.
+2ND LEVEL
+Your hit points increase by 1d6 + your Constitution modifier. Unlike Ist level you must roll for these hit points or take the average (4) You gain another Hit Die (total of 2d6)
+Skills
+Evocation The gold and time you must spend to copy an Savant evocation spell into your spellbook is halved (PHB 117)
+You have special training or a certain knack in two skills. Consider choosing two from Arcana, History, and Investigation. When you make a skill check using either of these skills, you add your proficiency bonus.
+Sculpt You can spare at least two allies from the effect of Spells your area spells. (PHB 117)
+Starting Consider starting with the following, in addition Equipment to the equipment granted by your background
+. a dagger, an arcane focus, a scholar's pack, and a spellbook
+Spells
+You gain another 1st-level spell slot. Add two spells to your spellbook. You can prepare a number of spells equal to 2 + your Intelligence modifier
+Spells You can cast spells from the wizard spell list. You (PHB 114) know three cantrips. Consider evocation
+cantrips, such as dancing lights, fire bolt. frostbite, shocking grasp, or thunderclap. You carry the rest of your spells in your spellbook, which at first has six Ist-level spells. Consider adding evocation spells to it, such as burning hands, chromatic orb, earth tremor, magic missile, and thunderwave. Round it out with find familiar. You can prepare a number of spells to 1 + your Intelligence modifier.
+

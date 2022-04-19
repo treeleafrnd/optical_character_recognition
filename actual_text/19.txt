@@ -1,0 +1,25 @@
+Qubely page
+Classic
+Material
+Full Name
+Full Name
+Email
+Email
+Label
+Full Name
+Subject
+Subject
+Name
+full-name
+you must write field name with hyphen with lowercase No space UPPERCASE Capitalize is not allowed 
+This name should match with form template value. Never keep empty this name.
+Message
+Message
+Placehold
+Full Name
+Width
+50
+Submit
+Required
+Hide Label
+

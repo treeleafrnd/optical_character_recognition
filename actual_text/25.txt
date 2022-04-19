@@ -1,0 +1,33 @@
+BILL CUM RECEIPT
+NH Narayana
+Narayana Multispeciality Clinic, Hosur-OPD-GF
+Multispeciality Clinic Unit of Narayana Health
+Patient Name Patient MRN Patient Phone No Address
+Mr Guranagoud (male, 79y 8m) 20020000021110 8220009866 2ND CROSS TVS NAGAR, HOSUR,Hosur, Krishnagiri. Tamil Nadu, India,635109
+Bill No Date Tariff Class Consultant Visit No
+: INVO-2002-2004000075 : 11-04-2020 10:40 AM OPD opd OP-002
+Particulars
+Date
+Qty
+Unit Rate Amount(Rs)
+Laboratory Services 1. HAEMOGLOBIN (HB%) 1 opd 2. POTASSIUM, SERUM opd 3. SERUM CREATININE opd 4. FREE THYROID PROFILE (FT3, FT4, TSH) opd
+11-04-2020 11-04-2020 11-04-2020 11-04-2020
+1 1 1
+75.00 110.00 120.00 750.00
+75.00 110.00 120.00 750.00 1,055.00
+Total Hospital Charges for Rendered Services/Items: Total Bill Amount including Taxes before round off:
+Sponsor Payable: Patient Round Off:
+Patient Payable:
+1,055.00 1,055.00
+0.00
+0.00 1,055.00
+Amount in words: Rupees One Thousand Fifty Five Only
+Instrument No.
+Instrument Date
+Receipt No. 1. RCPO-2002-2004000075
+Receipt Date 11-04-2020 10:40 AM
+Mode CARD
+Reference No. .
+Amount 1,055.00 1,055.00
+Total
+

@@ -1,0 +1,142 @@
+}
+
+papel
+
+and
+
+nanagement due to the poor security of all document
+
+to daily transactions and inventory
+
+For each good and
+
+Cac
+
+h
+
+hic
+
+sup}
+
+]
+
+1S
+
+usele
+
+3
+
+T¢
+
+ecords have been kept, which takes a long time and
+
+addition, due to inadequate sales and inventory manage
+
+Nn
+
+re
+
+iT
+
+calculating the quantity sold every day for each item and the usef
+
+i]
+
+l
+
+l
+
+products
+
+ha
+
+Food, pharmaceuticals, cosmetics, and beverages are all perishable thing
+
+left to rot. Normally, spoiling is avoided by adopting first-in-first-out (FIFO
+
+|
+
+i
+
+management, which assures that the first product received is distributec
+
+Manual inventory tracking is one of the reported issues, making it difficult t
+
+rk
+
+of inventory. Asa result, if inventory controls are not in place, FIFO will not
+
+inventory management systems lack the necessary tools to predict future sal
+
+]
+
++XCCl
+
+>
+
+-based
+
+I
+
+Another issue that has been noticed is that retailers are still utilizing |
+
+management, which is antiquated and ineffective. They will perish if they do not
+
+or automate soon enough by getting online or using a proper automated syster
+
+f
+
+only outdated, time-consuming
+
+and inefficient, but it also has a high potential
+
+mistake.
+
+1.3. Objectives
+
+Because the present framework only provides limited functionality to custome
+
+project provides stores with improved and more adaptable functionality. The obje
+
+include:
+
+aele
+
+To perform basic data management functions such as "add", "edit
+
+"update" will be accessible.
+
+1S
+
+To provide notifications about the remaining number of stocks s
+
+stock
+
+|
+
+10
+
+produce reports based on revenue
+
+T
+
+© predict future monthly sales based on previously r¢
+
+ARIMA model
+
+]
+
+Y
+
+1(
+
+renerate
+
+)
+
+regarding the cust
+
+I
+
+sale
+

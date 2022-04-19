@@ -1,0 +1,45 @@
+management dueto the poor security of all documents; papers, and other materials related
+to daily transactions and inventory: For each good and each supplier;
+a
+large number of
+records have been kept, which takes
+a
+time and is useless for future reference. In
+addition, due
+to
+inadequate   sales
+and   inventory  management,  retailers
+have   trouble
+calculating the quantity sold every day for each item and the useful inventory level of the
+produets.
+Food , pharmaceuticals, cosmetics, and beverages are all perishable
+that will spoil if
+left to rot
+Normally, spoiling is avoided by adopting first-in-first-out (FIFO) inventory
+management, which assures that the first product received is distributed to customers first
+Manual inventory tracking is one of the reported issues, making it difficult to maintain track
+of inventory. As a result, if inventory controls are not in place, FIFO will not work. Existing
+inventory management systems lack the necessary tools to predict future sales_
+Another issue that has been noticed is that retailers are still utilizing Excel-based inventory
+management, which is antiquated and ineffective. They will perish if they do not scale up
+or automate soon enough by getting online or using a proper automated system: It is not
+only outdated, time-consuming, and inefficient, but it also has a high potential for human
+mistake
+1.3.Objectives
+Because the present  framework only provides limited   functionality to customers,  this
+project provides stores with improved and more adaptable functionality _
+The objectives
+include:
+To perform basic data management functions such as "add", "edit", "delete" , and
+"update"
+will be accessible.
+To provide notifications about the remaining number of stocks so as t0 maintain
+stock.
+To
+luce reports based on revenue.
+To predict future monthly sales based on previously recorded monthly sales using
+ARIMA model:
+To generate bills regarding the customer sales.
+long
+things
+prod,

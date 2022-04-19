@@ -1,0 +1,41 @@
+Cost Center
+Month
+Work order type Code WIP Count
+JB
+August 2015
+External
+JB
+August 2015
+Internal
+JB
+August 2015
+Warranty
+JB
+September 2015
+External
+JB
+September 2015
+Internal
+JB
+September 2015
+Warrenty
+JB
+October 2015
+External
+2
+JB
+October 2015
+Internal
+JB
+October 2015
+Warrenty
+JB
+November 2015
+External
+JB
+November 2015
+Internal
+JB
+November 2015
+Warrenty
+

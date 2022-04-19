@@ -1,0 +1,90 @@
+‘al
+
+52. | AF-5380P3PR User Manual
+
+f
+
+3. Main system
+
+CPU
+
+EMMA3SL/LP (mips32 AKEc CPU, 440MIPS@
+
+|
+
+ne a
+
+cen
+
+| Flash Memory
+
+Re ail ae
+
+fies
+
+pi sid zs
+
+l
+
+"Graphic & System DDR SDRAM .
+
+_128Mbytes (1 DDRII SDRAM)
+
+4. AN Data nOut
+
+= i ib
+
+Beene SERENE LN at ener ge
+
+Spe nss ee eeer oe en
+
+| RCA VIDEO
+
+Video Output (
+
+cvBS)
+
+ste
+
+pad a a
+
+RCAVCinch Volume & Mute Control _
+
+ii
+
+ar Interface
+
+A-Type Vertical Connector
+
+eset sine
+
+5, Power Supply
+
+Input Voltage
+
+90 to 300 Vac, 50Hz/60Hz
+
+SMPS
+
+Type
+
+Protection
+
+Intemal Fuse
+
+Safety And EMC
+
+For Country Regulation
+
+6. Environment
+
+fC Oe
+
+Storage Temperature
+
+8. Physical Specification
+
+Weight(Net)
+
+2.0Kg approximate
+

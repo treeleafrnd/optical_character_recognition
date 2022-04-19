@@ -1,0 +1,76 @@
+BILL CUM RECEIPT
+Narayana Multispeciality Clinic, Hosur-OPD-GF
+NNarayana"
+Multispeciality Clinic
+Unit of Narayana Heallh
+Paticnt Namc
+Mt Guranagoud (male, 79v Bm)
+BIlI No
+INVO-7002-2004000075
+Patient MRN
+20020000021[40
+Dale
+:11-0+-2020 10 40AM
+Patlent Phone No
+8220009866
+Torlll closs
+;OPD
+Address
+ZND CROSS TVS NagaR, HOSUR, Hosur Krishnarur,
+consultant
+:opd
+Tarnil Nadu Indij,635109
+Visit No
+Op-002
+Panticulart
+Date
+Qty
+Unit Rate
+Amount(as)
+LbortonScnlco
+HAEMOGLOBIN (Hp%)
+opd
+11-04-2020
+75.00
+75.00
+potassiUM SehUM
+opd
+11.04*2020
+140,00
+110,.00
+SerUMcrEATiNINE
+opd
+11-0+-2020
+120,00}
+120.00
+FREE THYROID PROFIle (Fi3,FT4 , TSH)
+opd
+4-0+-2020
+750.00
+750.00
+Total
+1055.00
+Total Hospltal Charges (or Rendered Services/Items =
+1,055.00
+Total BIll Amount Including Tanes before round off ;
+1,055.00
+Sponsor Parable =
+0 ,00
+Patient Round Oft
+0.00
+Patlent Payable
+1,055.00
+Amount In words: Rupees One Thousand Filty Fwve Only
+Recelpt No_
+Recelpt Date
+Mode
+Reterence No.
+Instrument No_
+Inatqument Dute
+Amount
+RCPO-200z-2004000075
+11-0+ 2020 10. 40AM
+CARD
+1.055 C0 
+Total
+1,055.00

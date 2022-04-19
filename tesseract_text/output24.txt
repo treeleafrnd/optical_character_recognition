@@ -1,0 +1,50 @@
+Don't do nasty calculations by hand!
+
+Symbolics vs. Numerics
+
+Advantages
+
+Disadvantages
+
+e
+
+Sometimes can't be
+
+Symbolic] e Analytical solutions
+
+solved
+
+e Lets you intuit things
+
+e Can be overly compli-
+
+about solution form
+
+cated
+
+Numeric
+
+e Always get a solution
+
+e Hard to extract a deep
+
+understanding
+
+e
+
+Can make solutions
+
+e Num. methods some-
+
+accurate
+
+times fail
+
+e Easy to code
+
+e
+
+Can take a while to
+
+compute
+

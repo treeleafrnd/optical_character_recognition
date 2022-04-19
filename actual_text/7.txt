@@ -1,0 +1,11 @@
+CHAPTER 1: INTRODUCTION
+1.1. Background
+The retail and wholesale industry are one of the sectors that is rapidly expanding to satisfy
+customer's demand in specific areas. Consumers can choose from a variety of outlets,
+ranging from hypermarkets to mini markets, depending on their preferences. Essentially, a store offers a wide variety of products and services to the end-user from a wholesaler or supplier.
+Inventory management software, which provides a quick and easy user interface that can be used by anybody without prior in-depth understanding of the computer system, is one of the most popular tools for managing responsibility for enterprises, organizations, or retailers. Inventory management is now seen not only as a cost-cutting tool, but also as a tactical weapon that, when used effectively, may reduce inventory carrying costs, gain market share, improve customer service levels, and improve corporate efficiency.
+Inventory Management System is an improvised web-based inventory system aimed at retail businesses. For the development of this system, it uses ASP.NET Core for building inventory systems, python is integrated for the prediction of product sales and for data storage MSSQL is used. This project uses an ARIMA model which is used to predict future sales using past month's sales data.
+This project aims to avoid product overstock by integrating monthly sales with the store's inventory level, analyze the inventory data and forecasts product sales, the new proposed system makes it very easy for staff to keep track of new and old stock and provide notifications about the remaining number of stocks. It is highly effective and efficient in terms of obtaining data, and it does not allow for data manipulation. As the firm market expands, more employees will be hired, necessitating the need for job assignment, therefore it includes a feature that allows each role to have its own purpose.
+1.2. Problem Definition
+Inventory management is one of the most important aspects of running a successful business. Retailers, on the other hand, continue to overlook the necessity of inventory
+
