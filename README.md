@@ -29,7 +29,7 @@ Extracted text files link:- https://drive.google.com/drive/folders/12hM5vMVMIKYK
 file link:- https://github.com/treeleafrnd/Optical_character_recognition/blob/master/paddle_ocr.py
 Extracted text files link:-https://drive.google.com/drive/folders/1nJjgqRqwpZispaYFxTlxQ_eMZJ2KsDX1?usp=sharing
 
-6. Generated evaluation report by calculating sentence Error Rate by taking reference text as a actual text and extracted text as a text extracted
+6. Generated evaluation report by calculating Sentence Error Rate by taking reference text as a actual text and extracted text as a text extracted
 from OCR engines:-
 Here Actual text is extracted from google drive
 link for actual text is:- https://drive.google.com/drive/folders/137-KUkqMs8hG2twOCeBoCaDZ_M-A7PtP?usp=sharing
