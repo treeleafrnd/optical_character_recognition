@@ -5,19 +5,21 @@ import glob
 import os
 
 
-widthImg=600
-heightImg =800
+widthImg=700
+heightImg =700
 
 
+#pre-processing images
 
 
 def preProcessing(img):
     imgGray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
-    imgBlur = cv2.GaussianBlur(imgGray,(15,15),1)
-    th2 = cv2.adaptiveThreshold(imgGray,250,cv2.ADAPTIVE_THRESH_MEAN_C,\
+    imgBlur = cv2.GaussianBlur(imgGray,(5,5),0)
+    th2 = cv2.adaptiveThreshold(imgGray,210,cv2.ADAPTIVE_THRESH_MEAN_C,\
             cv2.THRESH_BINARY,11,2)
     cv2.imshow("thres",th2)
-    imgCanny = cv2.Canny(imgBlur,7,7)
+    imgCanny = cv2.Canny(imgBlur,5,5)
+    
     noiseless_image_bw = cv2.fastNlMeansDenoising(imgCanny, None,20, 7, 21)
     cv2.imshow("canny",imgCanny)
     kernel = np.ones((5,5))
@@ -31,27 +33,27 @@ def getContours(img):
     contours,hierarchy = cv2.findContours(img,cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_NONE)
     for cnt in contours:
         area = cv2.contourArea(cnt)
-        if area>5000:
-            #cv2.drawContours(imgContour, cnt, -1, (255, 0, 0), 3)
+        if area>1000:
             peri = cv2.arcLength(cnt,True)
             approx = cv2.approxPolyDP(cnt,0.02*peri,True)
             if area >maxArea and len(approx) == 4:
                 biggest = approx
                 maxArea = area
     cv2.drawContours(imgContour,biggest, -1, (255, 0, 0), 20)
+    cv2.imshow("imageoutline",imgContour)
     return biggest
 
+
+#sorting the points ,we may also use sorted function as an alternative.
 def reorder (myPoints):
     myPoints = myPoints.reshape((4,2))
     myPointsNew = np.zeros((4,1,2),np.int32)
     add = myPoints.sum(1)
-    #print("add", add)
     myPointsNew[0] = myPoints[np.argmin(add)]
     myPointsNew[3] = myPoints[np.argmax(add)]
     diff = np.diff(myPoints,axis=1)
     myPointsNew[1]= myPoints[np.argmin(diff)]
     myPointsNew[2] = myPoints[np.argmax(diff)]
-    #print("NewPoints",myPointsNew)
     return myPointsNew
 
 def getWarp(img,biggest):
@@ -85,6 +87,7 @@ for images in path:
     
     
     biggest = getContours(imgThres)
+    
     if biggest.size !=0:
         imgWarped=getWarp(img,biggest)
         imageArray = ([imgContour, imgWarped])
@@ -92,7 +95,7 @@ for images in path:
         cv2.imwrite("output/frame%d.jpg" % count, imgWarped)
         count+=1
     else:
-        cv2.imwrite(f"output/{os.path.basename(images)}",img)
+        cv2.imwrite(f"output/unaligned/{os.path.basename(images)}",img)
         
     
     
