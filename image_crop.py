@@ -1,19 +1,40 @@
-# Import packages
-import cv2
+#### Importing all the required libraries
+import cv2 
+import os
 import numpy as np
-img = cv2.imread('test.jpg')
+import pandas as pd
+import matplotlib.pyplot as plt
 
-print(img.shape) # Print image shape
-# cv2.imshow("original", img)
+#### Reading the images
+img = cv2.imread("Citizenship_cards/new/20.jpg")
+cv2.imshow("Original",img)
+copy_img = img.copy()
 
-# Cropping an image
-cropped_image = img[150:600, 90:650]
+#### Converting BGR to RGB
+img = cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
 
-# Display cropped image
-cv2.imshow("cropped", cropped_image)
+lower = np.array([150,150,150])
+higher = np.array([250,250,250])
 
-# ###Save the cropped image
-# cv2.imwrite("Cropped Image.jpg", cropped_image)
+mask = cv2.inRange(img,lower,higher)
+
+contours,hierarchy = cv2.findContours(mask,cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)
+
+cont_img = cv2.drawContours(img,contours,-1,255,3)
+
+#### Extract Maximum Contour
+c = max(contours, key = cv2.contourArea)
+
+#### Getting coordinates
+x,y,w,h = cv2.boundingRect(c)
+
+cv2.rectangle(img, (x,y),(x+w,y+h),(0,255,0),1)
+plt.imshow(img)
+
+cropped_image = copy_img[y:y+h, x:x+w]
+# cv2.imwrite("Cropped20.jpg",cropped_image)
+
+cv2.imshow("Cropped",cropped_image)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
