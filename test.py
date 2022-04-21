@@ -1,37 +1,31 @@
-
 import glob
 import cv2
-from cv2 import Laplacian
 import numpy as np
 import glob
 import os
 
 
-widthImg=600
-heightImg =800
+widthImg=700
+heightImg =700
 
 
+#pre-processing images
 
 
 def preProcessing(img):
     imgGray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
-    imgBlur = cv2.GaussianBlur(imgGray,(15,15),1)
-    sobelx = cv2.Sobel(src=imgBlur, ddepth=cv2.CV_64F, dx=1, dy=0, ksize=5)
-     
-    # Calculation of Sobely
-    sobely = cv2.Sobel(imgBlur,cv2.CV_64F,0,1,ksize=5)
-     
-    # Calculation of Laplacian
-    laplacian = cv2.Laplacian(imgBlur,cv2.CV_64F)
-    #cv2.convertScaleAbs(Laplacian)
-    outputImg8U = cv2.convertScaleAbs(laplacian, alpha=(255.0/65535.0))
-    cv2.imshow('sobelx',sobelx)
-    cv2.imshow('sobely',sobely)
-    cv2.imshow('laplacian',laplacian)
-    cv2.imshow("laplacian",laplacian)
-    kernel = np.ones((3,3))
-    imgDial = cv2.dilate(outputImg8U,kernel,iterations=2)
-    imgThres = cv2.erode(imgDial,kernel,iterations=2)
+    imgBlur = cv2.GaussianBlur(imgGray,(5,5),0)
+    th2 = cv2.adaptiveThreshold(imgBlur,200,cv2.ADAPTIVE_THRESH_MEAN_C,\
+            cv2.THRESH_BINARY,11,2)
+    
+    cv2.imshow("thres",th2)
+    imgCanny = cv2.Canny(imgBlur,30,200)
+    
+    noiseless_image_bw = cv2.fastNlMeansDenoising(imgCanny, None,100, 30, 25)
+    cv2.imshow("canny",imgCanny)
+    kernel = np.ones((5,5))
+    imgDial = cv2.dilate(noiseless_image_bw,kernel,iterations=2)
+    imgThres = cv2.erode(imgDial,kernel,iterations=1)
     return imgThres
 
 def getContours(img):
@@ -39,29 +33,29 @@ def getContours(img):
     maxArea = 0
     contours,hierarchy = cv2.findContours(img,cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_NONE)
     for cnt in contours:
+
         area = cv2.contourArea(cnt)
-        if area>5000:
-            #cv2.drawContours(imgContour, cnt, -1, (255, 0, 0), 3)
+        if area>1000:
             peri = cv2.arcLength(cnt,True)
-            approx = cv2.approxPolyDP(cnt,0.1*peri,True)
+            approx = cv2.approxPolyDP(cnt,0.02*peri,True)
             if area >maxArea and len(approx) == 4:
                 biggest = approx
                 maxArea = area
-    cv2.drawContours(imgContour,biggest, -1, (255, 0, 0), 20)
+    draw=cv2.drawContours(imgContour,biggest, -1, (255, 0, 0), 20)
     cv2.imshow("imageoutline",imgContour)
     return biggest
 
+
+#sorting the points ,we may also use sorted function as an alternative.
 def reorder (myPoints):
     myPoints = myPoints.reshape((4,2))
     myPointsNew = np.zeros((4,1,2),np.int32)
     add = myPoints.sum(1)
-    #print("add", add)
     myPointsNew[0] = myPoints[np.argmin(add)]
     myPointsNew[3] = myPoints[np.argmax(add)]
     diff = np.diff(myPoints,axis=1)
     myPointsNew[1]= myPoints[np.argmin(diff)]
     myPointsNew[2] = myPoints[np.argmax(diff)]
-    #print("NewPoints",myPointsNew)
     return myPointsNew
 
 def getWarp(img,biggest):
@@ -78,7 +72,7 @@ def getWarp(img,biggest):
     return imgCropped
 
 
-#loading i/o
+
 path = glob.glob("./input/*.jpg")
 path2=glob.glob("./output")
     
@@ -95,14 +89,15 @@ for images in path:
     
     
     biggest = getContours(imgThres)
+    
     if biggest.size !=0:
         imgWarped=getWarp(img,biggest)
         imageArray = ([imgContour, imgWarped])
         cv2.imshow("ImageWarped", imgWarped)
-        cv2.imwrite("sobel/frame%d.jpg" % count, imgWarped)
+        cv2.imwrite("output/frame%d.jpg" % count, imgWarped)
         count+=1
     else:
-        cv2.imwrite(f"unaligned/{os.path.basename(images)}",img)
+        cv2.imwrite(f"output/unaligned/{os.path.basename(images)}",img)
         
     
     
@@ -111,4 +106,3 @@ for images in path:
     if cv2.waitKey(0) & 0xFF == ord('q'):
         break
        
-   
