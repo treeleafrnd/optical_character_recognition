@@ -38,3 +38,7 @@ report link:- https://drive.google.com/file/d/11aRodsZv8ATjdiLipRVdImf9iDxaox9F/
 7. Image alignment using homography approaches:-
 file's link:- https://drive.google.com/drive/folders/1OwtBEVDvUvZ0L7ZNXBApGoQS7hXYECCw
 input and output link:-https://drive.google.com/drive/folders/1XM8IfLs20fvMp2YI0vup6Xv0vG-GtfJQ?usp=sharing 
+
+8. Here we have aligned and cropped different citizenship cards, Driving License and National Identity Card by using homography approaches like Scale Invariant Feature Transform (SIFT):-
+Link for the file is:- https://github.com/treeleafrnd/optical_character_recognition/blob/master/SIFT_image_crop.py, https://github.com/treeleafrnd/optical_character_recognition/blob/master/homography_alignment.py
+
